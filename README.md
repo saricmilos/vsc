@@ -1,2 +1,2 @@
-# vsc
-Principles of Voltage Source Converter Control
+# Voltage Source Converters and Power Converters
+Principles of Voltage Source Converters and Control and Power Converters
