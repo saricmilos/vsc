@@ -13,6 +13,13 @@ These projects were developed as part of my university courses **"Electric Energ
 
 The purpose of sharing these projects is to provide educational content and showcase my independent work. Reproduction, use in research, or redistribution for commercial purposes is not permitted without my explicit permission.
 
+The concepts and techniques used in this project were learned from the following sources and the images included in this repository were taken from:
+- **"VOLTAGE-SOURCED CONVERTERS IN POWER SYSTEMS: Modeling, Control, and Applications"** by [Amirnaser Yazdani], [Reza Iravani]
+- **"Power Electronics"** by [Daniel W. Hart]
+
+These books were instrumental in helping me understand the underlying principles of power electronics and converters.
+
+
 
 ---
 
