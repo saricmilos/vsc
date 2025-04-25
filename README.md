@@ -20,6 +20,7 @@ The concepts and techniques used in this project were learned from the following
 These books were instrumental in helping me understand the underlying principles of power electronics and converters.
 
 
+In addition, the MATLAB models and simulation methods provided by my professor Eduardo Prieto Araujo in the course **[Analysis of Modern Converter-based Power Ayatem]** were used as learning resources to help understand and implement specific VSC control models. These models were adapted to suit the requirements of this project and were originally developed by the course instructor.
 
 ---
 
